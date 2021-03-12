@@ -1,6 +1,6 @@
 clc;
 clear;
-texture = imread("garfield.jpg");
+texture = imread("braids.png");
 
 dims =  [size(texture,1), size(texture,2)];
 
@@ -15,8 +15,8 @@ global currCol;
 scalingFactor = 4;
 desiredDims = dims * scalingFactor;
 
-patchSize = 100;
-overlap = 10;
+patchSize = 48;
+overlap = 32;
 
 scaledPatchDim = desiredDims / patchSize;
 
