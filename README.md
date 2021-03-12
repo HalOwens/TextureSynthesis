@@ -4,7 +4,7 @@ Attempt at implementing the algorithm from this paper:
 https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-siggraph01.pdf
 
 Results were mixed but I want to move on to other stuff:
-![woodResults](https://user-images.githubusercontent.com/20121080/110704716-5b948d00-81c3-11eb-8331-fce75aa5578c.png)
-![textResults](https://user-images.githubusercontent.com/20121080/110704700-58010600-81c3-11eb-9478-27ca1b0621ca.png)
-![wallResults](https://user-images.githubusercontent.com/20121080/110704715-5afbf680-81c3-11eb-8566-5e70224fe482.png)
-![stoneResults](https://user-images.githubusercontent.com/20121080/110704593-3011a280-81c3-11eb-9c20-42f993907038.png)
+![betterWall](https://user-images.githubusercontent.com/20121080/110883799-097e6500-82b2-11eb-8e92-145700ca01f5.png)
+![grassyresults](https://user-images.githubusercontent.com/20121080/110883802-0a16fb80-82b2-11eb-9556-7979b87eb372.png)
+![knots](https://user-images.githubusercontent.com/20121080/110883805-0aaf9200-82b2-11eb-9eae-b57c0f12d96f.png)
+![stitch](https://user-images.githubusercontent.com/20121080/110883814-0d11ec00-82b2-11eb-82fe-b1a2ca2ceb7b.png)
